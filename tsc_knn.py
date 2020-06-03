@@ -38,8 +38,7 @@ train_data,train_labels=data_import(r'./data/2/train') #训练数据
 test_data,test_labels=data_import(r'./data/2/test') #测试数据
 
 '''
-K-K近邻算法K值 train_data-训练数据,train_labels-训练数据标签,
-test_data-测试数据,test_labels-测试数据标签,labels_name-数字标签转换为字母
+K-K近邻算法K值 train_data-训练数据,train_labels-训练数据标签,test_data-测试数据,test_labels-测试数据标签,labels_name-数字标签转换为字母
 '''
 def predict(K,train_data,train_labels,test_data,test_labels,labels_name):
     i=0
