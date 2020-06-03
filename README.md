@@ -10,7 +10,7 @@ KNN算法采用DTW运算结果作为距离值，采用vote方法进行分类。
 
 ## data数据集
 
-[data](https://github.com/vvanggeng/TSC-KNN/blob/master/data/data.zip) | Data exploration
+[data](https://github.com/vvanggeng/TSC-KNN/blob/master/data/data.zip)
 
 提供了两组数据集，每组均包含训练数据和测试数据，也可自行划分。
 
